@@ -7,8 +7,7 @@ chip_io config file
 soc flow config file    
 ![](images/soc_1.png)  
 ![](images/soc_2.png)  
-  
-but getting error during floorplan to see ioplacer.def in the tmp folder i use magic but getting error to load lib.tech file 
-
-![](images/error.png)
-
+ 
+ioplacer.def is generated in tmp folder  
+iowarper pad all are accumulate at the corner
+![](images/ioPlacer.png)  
