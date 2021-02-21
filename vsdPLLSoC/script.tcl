@@ -1,6 +1,6 @@
-package require openlane
+package require openlane 0.9
 
-prep -design vsdPLLSoC -tag vsdPLLSoC -overwrite
+prep -design vsdPLLSoC -tag try2 -overwrite
 
 
 run_synthesis
