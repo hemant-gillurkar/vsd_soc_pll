@@ -46,9 +46,9 @@ setup openlane package and prepare the design:
  
  ![](images/error1.png) 
  
- 
+<!--- 
  ## interactive 
- if run commends [this](https://github.com/hemant-gillurkar/vsd_soc_pll/blob/main/vsdPLLSoC/script.tcl) in interative mode it generate the some tmp output but while runing the `run_floorplan` or following [this](https://github.com/praharshapm/vsdmixedsignalflow/blob/master/openlane/script.tcl)  it gives error while runing `global_placement_or` this as mentioned above.  
+ if run commends [this](https://github.com/hemant-gillurkar/vsd_soc_pll/blob/main/vsdPLLSoC/script.tcl) in interative mode it generate the some tmp output but while runing the `run_floorplan` or following [this](https://github.com/praharshapm/vsdmixedsignalflow/blob/master/openlane/script.tcl)  it gives error while runing `global_placement_or` this as mentioned above.   --->
  
- 
- after `run_magic` the results are stored in the [here](https://github.com/hemant-gillurkar/vsd_soc_pll/tree/main/vsdPLLSoC/results/magic) 
+ <!--- 
+ after `run_magic` the results are stored in the [here](https://github.com/hemant-gillurkar/vsd_soc_pll/tree/main/vsdPLLSoC/results/magic) --->
